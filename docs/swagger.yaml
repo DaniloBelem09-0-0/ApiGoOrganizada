@@ -1,0 +1,15 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: danilo@email.com
+    name: Danilo Belem
+  description: Esta é uma API organizada utilizando Gin e MongoDB
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  termsOfService: http://swagger.io/terms/
+  title: API Go Organizada
+  version: "1.0"
+paths: {}
+swagger: "2.0"

@@ -1,0 +1,20 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Esta é uma API organizada utilizando Gin e MongoDB",
+        "title": "API Go Organizada",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "name": "Danilo Belem",
+            "email": "danilo@email.com"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}
